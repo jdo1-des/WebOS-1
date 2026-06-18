@@ -1,0 +1,47 @@
+body {
+    background-image:url(kiwianabg.jfif); 
+    background-size: cover; 
+    color: yellow; 
+    height: 100vh; 
+    margin: 0;
+    width: 100vw;     
+}
+div {
+    background-color: green;
+}
+#topbar, #clock{
+    display: flex;
+    }
+#topbar{
+    color: yellow;
+        height: 5vh; 
+    justify-content: space-around;  
+}
+a {
+    color: yellow;
+}
+#clock{
+    align-items: center;
+    justify-content: center;
+    }
+.topbarimg{
+    height: 90%;
+}
+#window{
+    border: 4px solid yellow; 
+    left: 50%;
+    position:absolute; 
+    top: 50%; 
+    transform:translate(-50%,-50%);
+    width:fit-content; 
+}
+#windowheader{
+    background-color: yellow;
+    color: green;
+    margin: 0;
+    padding: 5px 0;
+    width: 100%;   
+}
+h1, h2{
+    margin: 10px;
+}
