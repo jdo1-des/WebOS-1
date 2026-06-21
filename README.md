@@ -14,3 +14,7 @@ I built it using HTML, CSS, and JavaScript. This gives them good cross-platform 
 - SerenityUX for the guide
 - W3schools for additional help with the HTML and CSS
 - Anyone who tries my WebOS
+
+### 20/06/26
+### <ins>[Watch a walkthough of the first version](https://github.com/user-attachments/assets/8f728081-b01c-443f-8832-331a0e201d75)</ins>
+This is the start of my WebOS project. I am designing a kiwiana themed web operating system. So far, I have made the top bar and a moveable welcome window. I spent a while tring to get the windows to move only to reliase there was a typo in my code. Next I will add some applications to the OS.
